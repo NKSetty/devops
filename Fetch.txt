@@ -2,3 +2,4 @@ Testting Git fetch
 Adding second line in remote repo to test git fetch
 Testing add and commit command
 Testing 4th line in local repo for git fetch command
+Testing 5th line in local repo for git fetch command
