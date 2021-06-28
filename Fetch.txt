@@ -4,3 +4,4 @@ Testing add and commit command
 Testing 4th line in local repo for git fetch command
 Testing 5th line in local repo for git fetch command
 Testing 6th line in local repo for git fetch command
+Testing 7th line in local repo for git fetch command
